@@ -1,0 +1,23 @@
+[18-Jan-2024 11:39:08 UTC] PHP Notice:  Constant WP_USE_THEMES already defined in C:\xampp\htdocs\testwork\wp-content\themes\twentytwentyfour\woocommerce\templates\myaccount\test-image.php on line 3
+[18-Jan-2024 11:39:08 UTC] PHP Warning:  require_once(../../../wp-load.php): failed to open stream: No such file or directory in C:\xampp\htdocs\testwork\wp-content\themes\twentytwentyfour\woocommerce\templates\myaccount\test-image.php on line 4
+[18-Jan-2024 11:39:08 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../wp-load.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\testwork\wp-content\themes\twentytwentyfour\woocommerce\templates\myaccount\test-image.php on line 4
+[18-Jan-2024 11:41:23 UTC] PHP Notice:  Constant WP_USE_THEMES already defined in C:\xampp\htdocs\testwork\wp-content\themes\twentytwentyfour\woocommerce\templates\myaccount\test-image.php on line 3
+[18-Jan-2024 11:41:23 UTC] PHP Warning:  require_once(../../../wp-load.php): failed to open stream: No such file or directory in C:\xampp\htdocs\testwork\wp-content\themes\twentytwentyfour\woocommerce\templates\myaccount\test-image.php on line 4
+[18-Jan-2024 11:41:23 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../wp-load.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\testwork\wp-content\themes\twentytwentyfour\woocommerce\templates\myaccount\test-image.php on line 4
+[06-Feb-2024 04:45:15 UTC] Cron reschedule event error for hook: user_registration_usage_stats_scheduled_events, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"biweekly","args":[],"interval":1296000}
+[06-Feb-2024 04:51:12 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\testwork\wp-includes\class-wpdb.php on line 1987
+[06-Feb-2024 04:53:13 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\testwork\wp-includes\class-wpdb.php on line 1987
+[06-Feb-2024 04:55:14 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\testwork\wp-includes\class-wpdb.php on line 1987
+[06-Feb-2024 05:00:24 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\testwork\wp-includes\class-wpdb.php on line 1987
+[06-Feb-2024 05:02:24 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\testwork\wp-includes\class-wpdb.php on line 1987
+[06-Feb-2024 05:04:25 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\testwork\wp-includes\class-wpdb.php on line 1987
+[06-Feb-2024 05:06:16 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\testwork\wp-includes\class-wpdb.php on line 1987
+[06-Feb-2024 05:06:20 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\testwork\wp-includes\class-wpdb.php on line 1987

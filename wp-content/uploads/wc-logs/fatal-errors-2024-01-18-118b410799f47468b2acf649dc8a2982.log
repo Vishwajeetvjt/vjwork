@@ -1,0 +1,4 @@
+2024-01-18T11:39:08+00:00 CRITICAL require_once(): Failed opening required '../../../wp-load.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\testwork\wp-content\themes\twentytwentyfour\woocommerce\templates\myaccount\test-image.php on line 4
+
+2024-01-18T11:41:23+00:00 CRITICAL require_once(): Failed opening required '../../../wp-load.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\testwork\wp-content\themes\twentytwentyfour\woocommerce\templates\myaccount\test-image.php on line 4
+
